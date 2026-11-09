@@ -2162,7 +2162,7 @@
       "id": "lang-cs",
       "groupId": "languages",
       "name": "CZE",
-      "pattern": "(?i)\\b(cze|ces|czech)\\b",
+      "pattern": "(?i)\\b(cze|ces|czech|cz|cz-dabing|cs|čeština|cestina|cesky|česky|český dabing)\\b",
       "imageURL": "https://raw.githubusercontent.com/farizmohd70/FR-Badges/main/Badges-Neon-Icon/lang-cs.png",
       "tagColor": "#00000000",
       "borderColor": "#00000000",
